@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Pagination\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-19 19:46+0100\n"
+"PO-Revision-Date: 2011-10-19 19:46+0100\n"
+"Last-Translator: Lihwem <dev@dev.net>\n"
+"Language-Team: GeekPress <contact@geekpress.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/jonathanbuttigieg/Desktop/CMS - Zend Framework/WordPress/Plugin/Pagination/simple-pagination\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/jonathanbuttigieg/Desktop/CMS - Zend Framework/WordPress/Plugin/Pagination/simple-pagination\n"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:147
+msgid "Pagination Label"
+msgstr "Label de la pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:149
+msgid ""
+"The text to display before the list of pages.\n"
+"\t\t\t\t\t\t    <br/>\n"
+"\t\t\t\t\t\t    %CURRENT_PAGE% - The number of the current page.\n"
+"\t\t\t\t\t\t\t<br/>\n"
+"\t\t\t\t\t\t\t%TOTAL_PAGES% - The total number of pages."
+msgstr "Le texte a afficher avant la liste des pages.<br/>%CURRENT_PAGE% - Le numéro de la page courante.<br/>%TOTAL_PAGES% - Le nombre total de pages."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:159
+msgid "Previous Page"
+msgstr "Page précédente"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:161
+msgid "The text to display for the previous page link.<br/>Default: &lsaquo;"
+msgstr "Le texte a afficher pour la page précédente.<br/>Par défaut : &lsaquo;"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:167
+msgid "Next Page"
+msgstr "Page suivante"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:169
+msgid "The text to display for the next page link.<br/>Default: &rsaquo;"
+msgstr "Le texte a afficher pour la page suivante.<br/>Par défaut: &rsaquo;"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:175
+msgid "First Page"
+msgstr "Première page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:177
+msgid "The text to display for the first page link.<br/>Default: &laquo;"
+msgstr "Le texte a afficher pour le lien vers la première page.<br/>Par défault: &laquo;"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:183
+msgid "Last Page"
+msgstr "Dernière page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:185
+msgid "The text to display for the last page link.<br/>Default: &raquo;"
+msgstr "Le texte a afficher pour le lien vers la dernière page.<br/>Par défault: &raquo;"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:191
+msgid "Choose a CSS Style"
+msgstr "Sélectionner une feuille de style CSS"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:203
+msgid "Simple Pagination CSS file"
+msgstr "Fichier CSS de Simple Pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:205
+msgid "Include the default stylesheet of Simple Pagination?"
+msgstr "Inclure la feuille de style de Simple Pagination ?"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:211
+msgid "Before Pagination Markup"
+msgstr "Balise HTML avant la pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:213
+msgid "The HTML markup to display before the pagination code.<br/>Default: &lt;div class=\"pagination\"&gt;"
+msgstr "La balise HTML a afficher avant la pagination.<br/>Par défaut : &lt;div class=\"pagination\"&gt;"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:219
+msgid "After Pagination Markup"
+msgstr "Balise HTML après la pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:221
+msgid "The HTML markup to display after the pagination code.<br/>Default: &lt;/div&gt;"
+msgstr "La balise HTML a afficher après la pagination.<br/>Par défaut : &lt;/div&gt;"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:226
+msgid "Before Link Markup"
+msgstr "Balise HTML avant le lien d'une page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:228
+msgid "The HTML markup to display before the link code.<br/>Default: none."
+msgstr "La balise HTML a afficher avant le lien d'une page.<br/>Par défaut : vide."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:234
+msgid "After Link Markup"
+msgstr "La balise HTML avant le lien d'une page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:236
+msgid "The HTML markup to display after the link code.<br/>Default: none."
+msgstr "La balise HTML a afficher après le lien d'une page.<br/>Par défaut : vide."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:242
+msgid "Show all pages?"
+msgstr "Voir toutes les pages ?"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:245
+msgid "If is checked, show all pages of the pagination."
+msgstr "Si vous cochez, la pagination affichera toutes les pages."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:250
+msgid "Page Range"
+msgstr "Ecart"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:252
+msgid "The number of page links to show before and after the current page.<br/>Default: 3"
+msgstr "Le nombre de pages a afficher avant et après la page courante.<br/>Par défaut : 3"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:257
+msgid "Page Anchors"
+msgstr "Ancres"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:259
+msgid "The number of links to always show at beginning and end of pagination.<br/>Default: 0"
+msgstr "Le nombre de liens a toujours afficher en début et fin de la pagination.<br/>Par défaut : 0"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:265
+msgid "Number Of Larger Page Numbers To Show"
+msgstr "Nombre d’étapes intermédiaires de pagination à afficher"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:267
+msgid "For example, Simple Pagination will display: Pages: 1, 2, 3, 4, 5, 10, 20, 30.<br/>Default: 0"
+msgstr "Par exemple, Simple Pagination peut afficher : Pages: 1, 2, 3, 4, 5, 10, 20, 30.<br/>Defaut: 0"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:272
+msgid "Show Larger Page Numbers In Multiples Of"
+msgstr "Afficher les étapes intermédiaires de pagination en multiples de"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:274
+msgid "For example, if multiple is 5, it will show: 5, 10, 15.<br/>Default: 0"
+msgstr "Par exemple, si vous choisissez des étapes multiples de 5, ça affichera : 5, 10, 15, 20, 25…"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:368
+msgid "Help"
+msgstr "Aide"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:369
+msgid "Texts for navigation links"
+msgstr "Textes pour les liens de navigation"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:370
+msgid "HTML/CSS Advanced Settings"
+msgstr "HTML/CSS - Options avancées"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:371
+msgid "Pagination Advanced Settings"
+msgstr "Pagination - Options avancées"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:409
+msgid "Insert the following code in the loop to show the pagination: <strong>&lt;?php wp_simple_pagination(); ?&gt;</strong>"
+msgstr "Insérer le code suivant dans la loop pour afficher la pagination : <strong>&lt;?php wp_simple_pagination(); ?&gt;</strong>"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:410
+msgid "Show Help Advanced Options"
+msgstr "Voir l'aide des options avancées"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:414
+msgid "The function accepts an array that can change the values ​​registered from the administration. This is used if you want to configure a different pagination on a specific template."
+msgstr "La fonction accepte un tableau qui remplace les valeurs enregistrées dans l'administration. C'est utile si vous souhaitez configurer une pagination différente dans un template spécifique."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:416
+msgid "Here is a list of all the settings you can change:"
+msgstr "Ci-dessous, la liste des options que vous pouvez modifier :"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:420
+msgid "Key"
+msgstr "Clé"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:421
+msgid "Default value"
+msgstr "Valeur par défaut"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:422
+msgid "Description"
+msgstr "Description"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:428
+msgid "The text to display before the list of pages"
+msgstr "Le texte a afficher avant la liste des pages"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:433
+msgid "The text to display for the first page link"
+msgstr "Le texte a afficher pour le lien vers la première page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:438
+msgid "The text to display for the last link"
+msgstr "Le texte a afficher pour le lien vers la dernière page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:443
+msgid "The text to display for the previous page link"
+msgstr "Le texte a afficher pour le lien vers la page précédente"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:448
+msgid "The text to display for the next page link"
+msgstr "Le texte a afficher pour le lien vers la page suivante"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:453
+msgid "If it's true, include the default stylesheet of Simple Pagination"
+msgstr "Si vous cochez, la feuille de style de Simple Pagination sera incluse"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:458
+msgid "The StyleSheet of the pagination"
+msgstr "La feuille de style de la pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:463
+msgid "The HTML markup to display before the pagination code"
+msgstr "La balise HTML a afficher avant la pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:468
+msgid "The HTML markup to display after the pagination code"
+msgstr "La balise HTML a afficher après la pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:473
+msgid "The HTML markup to display before the link code"
+msgstr "La balise HTML a afficher avant le lien d'une page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:478
+msgid "The HTML markup to display after the link code"
+msgstr "La balise HTML a afficher après le lien d'une page"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:483
+msgid "If it's true, show all pages of the pagination"
+msgstr "Si vous cochez, la pagination affichera toutes les pages"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:488
+msgid "The number of page links to show before and after the current page"
+msgstr "Le nombre de pages a afficher avant et après la page courante"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:493
+msgid "The number of links to always show at beginning and end of pagination"
+msgstr "Le nombre de liens a toujours afficher en début et fin de la pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:498
+msgid "The number of larger page numbers to show"
+msgstr "Nombre d’étapes intermédiaires de pagination à afficher"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:503
+msgid "Show larger page numbers in multiples of<br/>For example, if multiple is 5, it will show: 5, 10, 15"
+msgstr "Afficher les étapes intermédiaires de pagination en multiples de<br/>Par exemple, si on choisit un multiple de 5, ça affichera : 5, 10, 15"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:507
+msgid "Here, an example of advanced options in a custom template:"
+msgstr "Ci-dessous, un exemple d'options avancées dans un template personnalisé :"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:521
+msgid "Hide Help Advanced Options"
+msgstr "Cacher l'aide des options avancées"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:573
+msgid "Simple Pagination"
+msgstr "Simple Pagination"
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:586
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les autorisations suffisantes pour accéder à cette page."
+
+#: /Users/jonathanbuttigieg/Desktop/CMS - Zend
+#: Framework/WordPress/Plugin/Pagination/simple-pagination/simple-pagination.php:595
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+

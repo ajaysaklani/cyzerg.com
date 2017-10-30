@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /2014/
+Disallow: /author/
+Disallow: /tag/
+Disallow: /newwp/
+Disallow: /old site/

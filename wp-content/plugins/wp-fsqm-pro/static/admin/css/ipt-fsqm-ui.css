@@ -1,0 +1,22 @@
+/*
+    Document   : ipt_fsqm_ui
+    Created on : Jul 3, .2013, .2:28:59 AM
+    Author     : Swashata
+    Description:
+        iPanelThemes Feedback Survey & Quiz Manager Pro related UI specifics
+*/
+#ipt_fsqm_form_toolbar {
+	position: relative;
+}
+#ipt_fsqm_form_toolbar #ipt_fsqm_auto_save {
+	position: absolute;
+	width: 100%;
+	top: 0;
+}
+
+.ipt_fsqm_page_specific_time {
+	display: none;
+}
+.ipt-fsqm-ps-timer .ipt_fsqm_page_specific_time {
+	display: table-row;
+}

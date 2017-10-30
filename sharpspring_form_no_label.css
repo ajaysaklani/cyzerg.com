@@ -1,0 +1,93 @@
+@import http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&subset=latin%2Clatin-ext&ver=3.8.5;
+/* This is the stylesheet used by SharpSpring to style all forms */
+body,html {
+  font-family: 'Open Sans', sans-serif;
+  overflow: hidden;
+  background: #3363af;
+}
+
+form {
+  padding: 0;
+}
+
+h3 {
+  color: white;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  margin:20px 0 10px 0;
+}
+
+fieldset li label{
+  display: none;
+}
+
+.button {
+  background: #292929;
+  font-family: 'Open Sans', sans-serif;
+  color: #FFF;
+  border: none;
+  cursor: pointer;
+  padding: 6px 25px;
+  width: 100%;
+  margin: 15px 0;
+  float: none;
+  font-weight: 300;
+  font-size: 20px;
+  border-radius: 0px;
+  text-shadow:none;
+  box-shadow: none;
+}
+
+.button:hover {
+  background: #FFF;
+  color: #000;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], .button, textarea{
+  border-radius: 0;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  border: 1px solid #bbb;
+  width: 100%;
+  box-sizing: border-box;
+}
+input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus, textarea:focus {
+  border-color: #000;
+  box-shadow: none;
+}
+
+input {
+  -webkit-appearance: none;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+.form_fields {
+  float:left;
+  width: 75%;
+}
+
+.form_fields li.field{
+  display: inline-block;
+  margin-right: 2%;
+  width: 31%;
+  vertical-align: top;
+}
+
+fieldset p.clear {
+  clear:none;
+}
+
+.button {
+  float: right;
+  width: 25%;
+  font-size: 15px;
+  margin: 18px 0 0;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+  width: 94%;
+}
+
+}

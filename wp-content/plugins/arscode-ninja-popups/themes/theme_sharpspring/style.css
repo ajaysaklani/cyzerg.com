@@ -1,0 +1,31 @@
+.snp-theme-sharpspring iframe {width: 100%} 
+
+.snp-theme-sharpspring {
+	padding: 20px;
+	background-color: #3363af;
+        max-width: 350px;
+}
+
+.snp-theme-sharpspring h2 {
+  font-size: 28px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.snp-theme-sharpspring h3 {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom:28px;
+  color: #ffffff;
+}
+
+.snp-theme-sharpspring .disclaimer {
+  font-size: 12px;
+  color: #ffffff;
+}
+
+.snp-theme-sharpspring a {
+  text-decoration: underline;
+}
+
+
